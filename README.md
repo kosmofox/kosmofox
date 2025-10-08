@@ -13,6 +13,7 @@
   - Cypress
   - Typescript
   - Javascript
+  - Mentoring
  
 - 👯 Languages
   - Ukrainian
